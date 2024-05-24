@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  padding: 20px;
+}
+
+.radio-label {
+  background: "grey";
+  color: "black";
+}
+
+.content {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  color: "#fff";
+  font-size: "30px";
+  margin-top: "50px";
+  flex-direction: "column";
+  gap: "10px";
+}
